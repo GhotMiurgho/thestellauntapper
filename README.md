@@ -1,5 +1,5 @@
 # thestellauntapper
 The Stella Untapper is
-A bot with guidance
-This is now the intro and the slogan and 
+a bot with guidance
+this is now the intro and the slogan and 
 the next step to this project is the updated version
